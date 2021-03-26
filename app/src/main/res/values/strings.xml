@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GFG SOS</string>
+    <string name="contact1">Emergency Contact 1</string>
+    <string name="contact2">Emergency Contact 2</string>
+    <string name="message">Emergency Message</string>
+    <string name="save">Save</string>
+    <string name="sos">Send SOS</string>
+</resources>
